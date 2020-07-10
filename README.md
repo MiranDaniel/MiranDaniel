@@ -17,30 +17,4 @@ Here are some ideas to get you started:
 
 ![LINE](https://github.githubassets.com/images/mona-whisper.gif)
 
-- 🔭 I’m currently working on ...
-
-Bots with the Reddit API
-
-- 🌱 I’m currently learning ...
-
-Python, HTML+CSS, looking into C#
-
-- 👯 I’m looking to collaborate on ...
-
-*Cool stuff*
-
-- 🤔 I’m looking for help with ...
-
-*Cool stuff*
-
-- 💬 Ask me about ...
-
-*Cool s-* ok I'll stop.
-
-- 😄 Pronouns: ...
-
-He(licopter)
-
-- ⚡ Fun fact: ...
-
-The mascot of GitHub is a female cat with 5 octopus-like arms. It was created by freelance graphic designer Simon Oxley (who also designed Twitter’s bird) to sell on iStock. GitHub became interested in his work named Octopuss. They bought exclusive rights and renamed it to Octocat. Since then, several users have designed hundreds of variations of the character.
+***Working on bots for Reddit using Python, looking into using C#.***
