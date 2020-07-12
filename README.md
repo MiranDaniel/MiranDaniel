@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![LINE](https://github.githubassets.com/images/mona-whisper.gif)
 
-***Working on bots for Reddit using Python, looking into using C#.***
