@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...e
 -->
-
 ![LINE](https://github.githubassets.com/images/mona-whisper.gif)
+
+<img align="center" src="https://img.shields.io/discord/737439531300814952?style=flat-square" alt="github stats" /><img align="center" src="https://img.shields.io/reddit/user-karma/combined/mirandanielcz?style=flat-square" alt="github stats" />
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirandaniel&show_icons=true" alt="github stats" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandaniel&layout=compact" alt="github stats" />
+</a>
+
+
+
+
+
 
