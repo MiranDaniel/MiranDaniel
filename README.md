@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ---
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mirandaniel&show_icons=true" alt="github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirandaniel&show_icons=true" alt="github stats" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandaniel&layout=compact" alt="github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandaniel&layout=compact" alt="github stats" />
 </a>
 
