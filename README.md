@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...e
 -->
-![LINE](https://github.githubassets.com/images/mona-whisper.gif)
+![LINE](https://github.githubassets.com/images/modules/notifications/filters-zero.svg)
 
 <img align="center" src="https://img.shields.io/discord/737439531300814952?style=flat-square" alt="github stats" /><img align="center" src="https://img.shields.io/reddit/user-karma/combined/mirandanielcz?style=flat-square" alt="github stats" />
 
