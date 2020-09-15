@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 <img align="right" src="https://github.githubassets.com/images/modules/notifications/filters-zero.svg">
 
-* 💻 Languages: `Python`, `C#`, `SQL`, `HTML/JS`, `CSS`, `Reddit Automoderator`
+* 💻 Languages: `Python`, `C#`, `SQL`, `HTML/JS`, `CSS`<!--, `Reddit Automoderator`-->
 
 * ⚙️ Working on: Reddit bots, MiranDaniel.com, Reddit User Analyzer
 
