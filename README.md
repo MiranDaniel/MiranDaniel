@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LINE](https://github.githubassets.com/images/modules/notifications/filters-zero.svg)
+<img align="right" src="https://github.githubassets.com/images/modules/notifications/filters-zero.svg">
 
-
+<!--
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirandaniel&show_icons=true" alt="github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mirandaniel&show_icons=true" alt="github stats" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandaniel&layout=compact" alt="github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandaniel&layout=compact" alt="github stats" />
 </a>
 
 
-
+-->
