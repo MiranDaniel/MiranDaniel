@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 💻 Languages: `Python`, `C#`, `SQL`, `HTML/JS`, `CSS`<!--, `Reddit Automoderator`-->
 
-* ⚙️ Working on: Reddit bots, MiranDaniel.com, Reddit User Analyzer
+* ⚙️ Working on: Reddit bots, MiranDaniel.com, RAG
 
 * 🌐 Location: Czech Republic
 
