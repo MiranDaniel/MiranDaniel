@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <br>
 
-
 ---
 
 <a href="">
@@ -37,3 +36,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandaniel&layout=compact" alt="github stats" />
 </a>
 
+---
+
+## Join my Discord Server! https://discord.gg/4gCzqw7
