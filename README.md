@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 <img align="right" src="https://github.githubassets.com/images/modules/notifications/filters-zero.svg">
 
-* 💻 Languages: `Python`, `C#`, `SQL`, `HTML/JS`, `CSS`<!--, `Reddit Automoderator`-->
+* 💻 Languages: `Python`, `C#`, `Java`, `SQL`, 
 
 * ⚙️ Working on: Custom Discord Bots
 
@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 
 ---
 
-## Join my Discord Server! https://discord.gg/4gCzqw7
