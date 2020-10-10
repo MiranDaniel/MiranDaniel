@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 💻 Languages: `Python`, `C#`, `Java`, `SQL`, 
 
-* ⚙️ Working on: Custom Discord Bots
+* ⚙️ Working on: Learning Java
 
 * 🌐 Location: Czech Republic
 
