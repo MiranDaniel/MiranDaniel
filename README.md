@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 💻 Languages: `Python`, `C#`, `Java`, `SQL`
 
-* ⚙️ Working on: Learning Java
+* ⚙️ Working on: Python Modules
 
 * 🌐 Location: Czech Republic
 
