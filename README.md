@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 💻 Languages: `Python`, `C#`, `Java`, `SQL`
 
-* ⚙️ Working on: Python Modules
+* ⚙️ Working on: Python Modules, Reddit bots, Discord  bots and Reddit Automoderator config
 
 * 🌐 Location: Czech Republic
 
