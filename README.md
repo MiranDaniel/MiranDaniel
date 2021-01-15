@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 <img align="right" src="https://github.githubassets.com/images/modules/notifications/filters-zero.svg">
 
-* 💻 Languages: `Python`, `C#`, `Java`, `HTML/CSS/JS`, `SQL`
+* 💻 Languages: `Python`, `C#`, `Java`, `HTML/CSS/JS`, `SQL (Postgres, SQLite3)`
 
 * ⚙️ Working on: Python Modules, Reddit bots, Discord  bots and Reddit Automoderator config
 
