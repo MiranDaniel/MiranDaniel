@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 * ⚙️ Working on: Python Modules, Reddit bots, Discord  bots and Reddit Automoderator config
 
-* 🌐 Location: Czech Republic
+* ⌨️ IDEs: Visual Studio Code, Visual Studio, PyCharm
 
-* ⚡ Fun fact: *99% of all asphalt is recycled.*
+* 🌐 Location: Czech Republic
 
 <br>
 
