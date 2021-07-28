@@ -15,15 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<img align="right" src="https://github.githubassets.com/images/modules/notifications/filters-zero.svg">
+<img align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg" width=400>
 
-* 💻 Languages: `Python`, `C#`, `Java`, `HTML/CSS/JS`, `SQL (Postgres, SQLite3)`
+* **💻 Languages:**
+    - 🐍 Python - for mostly everything
+    - 💡 C# - for applications that require a GUI
+    - 📡 HTML/CSS/JS - to build websites
+    - 💾 SQL (Postgres, SQLite3) - for storing data
 
-* ⚙️ Working on: Python Modules, Reddit bots, Discord  bots and Reddit Automoderator config
+* **👷 Working on:**
+    - 🔨 Reddit moderation automation
+    - 💸 Applications for commodity price prediction with deep learning
+    - 🆓 Cryptocurrency distribution projects
 
-* ⌨️ IDEs: Visual Studio Code, Visual Studio, PyCharm
+* **📟 IDEs:**
+    - 🔥 JetBrains IDEs - as a main editor
+    - 💨 Sublime Text - for quick edits
 
-* 🌐 Location: Czech Republic
+* **🐧 OS:**
+    - 🍿 Pop\!\_OS - as a daily driver
+    - 👻 Ubuntu Server - for hosting
 
 <br>
 
