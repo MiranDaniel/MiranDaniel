@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<img align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg" width=400>
+<img align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg" width=350>
 
 * **💻 Languages:**
     - 🐍 Python - for mostly everything
