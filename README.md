@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * **👷 Working on:**
     - 🔨 Reddit moderation automation
-    - 💸 Applications for commodity price prediction with deep learning
+    - 💸 Data price prediction with deep learning
     - 🆓 Cryptocurrency distribution projects
 
 * **📟 IDEs:**
