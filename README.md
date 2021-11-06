@@ -16,6 +16,7 @@
 
 * **📟 IDEs:**
     - 🔥 JetBrains IDEs
+    - 🪟 Visual Studio Code
     - 💨 Sublime Text
 
 * **🐧 OS:**
