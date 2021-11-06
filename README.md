@@ -21,4 +21,5 @@
 * **🐧 OS:**
     - 🍿 Pop\!\_OS
     - 👻 Ubuntu Server
+    - 🎩 Fedora Server
 ---
