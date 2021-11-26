@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mirandaniel&theme=dark" width=50%>
-
-
+<div class="container" float="right" width=30%>
+  <img align="right" float="right" src="https://raw.githubusercontent.com/MiranDaniel/branding/master/self.logo/clasic_m/clasic_m_darkpng.png" width=30%>
+</div>
 
 <h4>Backend</h4>
 
@@ -32,14 +32,17 @@
 
 
 
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
+
+
+---
+
+<h5>Support me</h5>
+
+
+
+
+[![](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![](https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=Binance&logoColor=white)![](https://img.shields.io/badge/NANO-4A90E2?style=for-the-badge&logo=Nano&logoColor=white)](https://github.com/MiranDaniel/MiranDaniel/blob/master/SUPPORT.md)
+
+
 
 
