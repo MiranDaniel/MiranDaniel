@@ -1,26 +1,6 @@
----
-<img align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg" width=350>
+<h4>Support me</h4>
 
-* **💻 Languages:**
-    - 🐍 Python
-    - ☕ Java
-    - 📡 HTML, CSS, JS
-    - 🪁 Bootstrap
-    - 💾 PostgreSQL, SQLite
-
-* **👷 Working on:**
-    - 🔨 Reddit moderation automation
-    - 💸 Market analysis ML
-    - 🆓 Cryptocurrency distribution projects
-    - 📁 Decentralized finance solutions
-
-* **📟 IDEs:**
-    - 🔥 JetBrains IDEs
-    - 🏦 Visual Studio Code
-    - 💨 Sublime Text
-
-* **🐧 OS:**
-    - 🍿 Pop\!\_OS
-    - 👻 Ubuntu Server
-    - 🎩 Fedora Server
----
+![](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![](https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=Binance&logoColor=white)
+![](https://img.shields.io/badge/NANO-4A90E2?style=for-the-badge&logo=Nano&logoColor=white)
