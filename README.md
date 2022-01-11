@@ -3,7 +3,6 @@
 
 * **💻 Languages:**
     - 🐍 Python
-    - ☕ Java
     - 📡 HTML, CSS, JS
     - 🪁 Bootstrap
     - 💾 PostgreSQL, SQLite
@@ -13,6 +12,7 @@
     - 💸 Market analysis ML
     - 🆓 Cryptocurrency distribution projects
     - 📁 Decentralized finance solutions
+    - 🧭 Discord moderation solutions 
 
 * **📟 IDEs:**
     - 🔥 JetBrains IDEs
