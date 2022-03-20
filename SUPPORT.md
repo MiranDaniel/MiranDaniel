@@ -12,14 +12,8 @@
 
 ---
 
-![](https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=Binance&logoColor=white)
+![EVM+L2](https://img.shields.io/badge/EVM+l2-5e5086?style=for-the-badge&logo=Solidity&logoColor=white)
 ```
 0x20D3c078958A2b866F9F423a722aF5a92bc7e08b
 ```
 
----
-
-![](https://img.shields.io/badge/NANO-4A90E2?style=for-the-badge&logo=Nano&logoColor=white)
-```
-nano_33k5ggoycqgft9on81kd8sqkdi4c38robs4jq9xmbd6j1wgfmqbukqym38ug
-```
