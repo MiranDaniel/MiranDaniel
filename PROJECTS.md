@@ -1,3 +1,5 @@
+
+
 # Python
 | Project name | Use |
 | ------------ | --- |
@@ -16,7 +18,7 @@
 | ------------ | --- |
 | [mirandaniel.com](https://github.com/MiranDaniel/MiranDaniel.github.io) | *My own website*
 
-# RegEx 
+# regEx 
 | Project name | Use |
 | ------------ | --- |
 | [regural-expressions](https://github.com/MiranDaniel/regular-expressions) | *Regex used for fancy stuff*
