@@ -5,7 +5,11 @@
   </tr>
 </table>
 
-<br>
+<div align="center">
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/MiranDaniel.png" alt="TryHackMe"></td>
+</div>
+
+
 
 
 <div align="center">
