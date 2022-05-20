@@ -34,17 +34,3 @@
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 </div>
-
-<br>
-
-<a href="https://github.com/MiranDaniel/MiranDaniel/blob/master/SUPPORT.md">
-<div align="center">
-
-### [Donations](https://github.com/MiranDaniel/MiranDaniel/blob/master/SUPPORT.md)
-
-[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)]("https://github.com/MiranDaniel/MiranDaniel/blob/master/SUPPORT.md")
-[![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)]("https://github.com/MiranDaniel/MiranDaniel/blob/master/SUPPORT.md")
-[![EVM+L2](https://img.shields.io/badge/EVM+l2-5e5086?style=for-the-badge&logo=Solidity&logoColor=white)]("https://github.com/MiranDaniel/MiranDaniel/blob/master/SUPPORT.md")
-
-</div></a>
-
