@@ -5,6 +5,13 @@
   </tr>
 </table>
 
+
+
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=python,flask,django,postgres,mongodb,linux,tailwind" alt="TryHackMe"></td>
+</p>
+<br>
+
 <div align="center">
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/MiranDaniel.png" alt="TryHackMe"></td>
 </div>
