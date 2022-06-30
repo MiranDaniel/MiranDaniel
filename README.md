@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=python,flask,django,postgres,mongodb,linux,tailwind" alt="TryHackMe"></td>
+<img align="center" src="https://skillicons.dev/icons?i=python,flask,django,postgres,mongodb,redis,linux,tailwind" alt="TryHackMe"></td>
 </p>
 <br>
 
