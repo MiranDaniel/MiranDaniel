@@ -5,5 +5,5 @@
   </tr>
 </table>
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=python,flask,django,postgres,mongodb,redis,linux,tailwind,raspberrypi,selenium,graphql" alt="Skills"></td>
+<img align="center" src="https://skillicons.dev/icons?i=python,flask,django,postgres,mongodb,arduino,linux,tailwind,raspberrypi,selenium,graphql,bash,nginx" alt="Skills"></td>
 </p>
