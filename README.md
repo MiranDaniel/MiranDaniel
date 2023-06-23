@@ -1,11 +1,5 @@
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiranDaniel&theme=github_dark" alt=""></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirandaniel&theme=github_dark&" align="right" alt=""></td>
-  </tr>
-</table>
-<p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=python,flask,django,postgres,mongodb,arduino,linux,tailwind,raspberrypi,selenium,graphql,bash,nginx" alt="Skills"></td>
-<br>
-<span><code>29FE5B4BA5E964388F5C0F19BF578251926A967D</code></span>
-</p>
+<div>
+"An idiot admires complexity, a genius admires simplicity."
+
+\- Terry A. Davis
+</div>
