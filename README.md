@@ -1,6 +1,6 @@
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=rust,python" />
+<img src="https://skillicons.dev/icons?i=rust,python,nim" />
 &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=selenium,docker,flask,django" />
 &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi" />
 </p>
