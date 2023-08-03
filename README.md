@@ -1,8 +1,8 @@
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=rust,python,nim,c" />
-&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=selenium,docker,flask,django" />
-&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=rust,c,python,nim" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask,django,selenium,docker" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino" />
 </p>
 
 ---
@@ -15,5 +15,5 @@
 <div>
 "An idiot admires complexity, a genius admires simplicity."
 
-\- Terry A. Davis
+  \- Terry A. Davis
 </div>
