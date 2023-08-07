@@ -2,7 +2,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=rust,c,python,nim" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask,django,selenium,docker" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,raspberrypi,vim,arduino" />
 </p>
 
 ---
