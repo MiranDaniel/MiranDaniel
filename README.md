@@ -7,7 +7,7 @@
 
 ---
 
-- <span>PGP: <code>29FE5B4BA5E964388F5C0F19BF578251926A967D</code></span>
+- <span>GPG: <code>F42DFEFE9040255FAE1ADC8CC96567DFE63D4202</code></span>
 - <span>Contact: <code>echo "H4sIAAAAAAAAA0vPLMkoTXLIzSxKzEtJzMtMzdFLzs/lAgDbwMCEFwAAAA==" | base64 -d | gzip -d</code></span>
 
 ---
