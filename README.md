@@ -1,19 +1,18 @@
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=rust,c,python,nim" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask,django,selenium,docker" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,raspberrypi,vim,arduino" />
+    <img src="https://skillicons.dev/icons?i=rust" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux" />
+
 </p>
 
----
-
-- <span>GPG: <code>F42DFEFE9040255FAE1ADC8CC96567DFE63D4202</code></span>
-- <span>Contact: <code>echo "H4sIAAAAAAAAA0vPLMkoTXLIzSxKzEtJzMtMzdFLzs/lAgDbwMCEFwAAAA==" | base64 -d | gzip -d</code></span>
-
----
-
-<div>
+<span><code>echo "H4sIAAAAAAAAA0vPLMkoTXLIzSxKzEtJzMtMzdFLzs/lAgDbwMCEFwAAAA==" | base64 -d | gzip -d</code></span>
+<blockquote>
+  <i>
 "An idiot admires complexity, a genius admires simplicity."
-
-  \- Terry A. Davis
-</div>
+    
+— Terry A. Davis
+  </i>
+</blockquote>
